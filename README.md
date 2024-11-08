@@ -1,6 +1,6 @@
 Hi, I’m Juanma-Ledesma 👋
 
-Freelance Junior Front-end Developer with a fervent passion for computers and technology. Currently, my toolkit includes HTML, CSS, and JavaScript, and I'm learning React.
+Freelance Junior Front-end Developer with a fervent passion for computers and technology. Currently, my toolkit includes HTML, CSS, JavaScript and React.
 
 On this page, you'll find my projects that reflect my journey as a budding developer.
 <!---
