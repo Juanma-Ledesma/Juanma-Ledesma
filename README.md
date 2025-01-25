@@ -7,7 +7,7 @@
   
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFWBi-4jvDGdw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737482698300?e=1743033600&v=beta&t=12MJNKwQguHH3i5nVGJDZhRdEsq0CATyBkyUdVpYjA8">
+<img src="Black Minimal Motivation Quote LinkedIn Banner(2).png">
 
 <br>
 
