@@ -21,7 +21,7 @@ Here you'll find projects that reflect my growth as a developer.
 
 <div align="center">
   <a href="https://github.com/Juanma-Ledesma">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juanma-Ledesma&layout=compact&langs_count=8&theme=dark&bg_color=0A0A0A"/>
+    <img height="180em" src="Black Minimal Motivation Quote LinkedIn Banner.png"/>
   </a>
 </div>
 
