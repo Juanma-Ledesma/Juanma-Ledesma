@@ -2,7 +2,7 @@
   <h1>Hi, I’m Juanma-Ledesma 👋</h1>
 </div>
 
-<img src="Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner">
+<img src="Black Minimal Motivation Quote LinkedIn Banner(3).png" alt="banner">
 
 <br>
 
